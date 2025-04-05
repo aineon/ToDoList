@@ -152,4 +152,4 @@ Select the index of the TODO you want to remove:
 
 ---
 
-Feel free to explore each version of the solution to compare different implementation styles!
+
